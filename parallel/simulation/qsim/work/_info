@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Desktop/parallel/simulation/qsim
+vhard_block
+Z1 !s110 1737093329
+!i10b 1
+!s100 @S`NmXTcPWzd_o9[6QBf_3
+IHSKioP<MK[WO076?aaZ0j0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1737093328
+Z4 8parallel.vo
+Z5 Fparallel.vo
+L0 2465
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1737093329.000000
+Z8 !s107 parallel.vo|
+Z9 !s90 -work|work|parallel.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vparallel
+R1
+!i10b 1
+!s100 8LSW3B@VjbCDkIhQC;`Zh1
+I;UV=lEW]:3YO1;Uoj5T`W0
+R2
+R0
+R3
+R4
+R5
+L0 31
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vparallel_vlg_vec_tst
+!s110 1737093330
+!i10b 1
+!s100 c4Bf;5Dg;YSMT2e3nzKZ=2
+IQZJD`5];KB]83CBg9We022
+R2
+R0
+w1737093327
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 29
+R6
+r1
+!s85 0
+31
+!s108 1737093330.000000
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R10
+R11
